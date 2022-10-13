@@ -4,7 +4,7 @@ Ez a projekt egy látványosság része volt, mely az ELTE KCSSK kollégium Buda
 
 Hardveres részei:
   - egy fotel
-  - egy sisak (alufólia, kartonpapír és vezetékek), 3db sárga LED-el, és egy kapcsolóval
+  - egy sisak (alufólia, kartonpapír és vezetékek), 3db sárga LED-el, és egy mikrokapcsoló
   - sisakot fotelhez kapcsoló vezeték (két régi billentyűzet vezetéke összetoldva)
   - Raspberry PI 3 model B
   - USB hangszórók
